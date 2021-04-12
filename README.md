@@ -11,6 +11,7 @@ I would reccomend reading about this a little bit if you want to use, it's not d
 https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.html
 
 # HOW TO USE
+- here is how to use this thing, there are some additional important notes at the bottom which you should read!!!!!
 
 # SAMPLE LIST
 
