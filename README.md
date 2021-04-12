@@ -63,3 +63,9 @@ https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.ht
 - if you load a file, and the sample tags don't appear, press ctrl+r to reload everything \- not sure why this bug exists, sorry.
 - it gets very slow to resize the window when you have a complex file open, because i made it in unity because i am not a real programmer
 - the save button will save your file to its root directory, and the file will be named product.xml, rename this to whatever.dspreset and open it with DecentSampler!
+
+### some credits
+https://github.com/keijiro/WavTexture/ - sample previewer
+Bunny83 - drag and drop (i broke it i dont think it works anymore though)
+https://github.com/yasirkula/UnitySimpleFileBrowser - file browser
+Rene Bieder - Milliard font
