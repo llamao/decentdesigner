@@ -62,3 +62,4 @@ https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.ht
 - and also it can only understand absolute sample paths I would reccomend using notepad++ to replace relative paths in the xml with absolute when you load, and change them back when you save
 - if you load a file, and the sample tags don't appear, press ctrl+r to reload everything \- not sure why this bug exists, sorry.
 - it gets very slow to resize the window when you have a complex file open, because i made it in unity because i am not a real programmer
+- the save button will save your file to its root directory, and the file will be named product.xml, rename this to whatever.dspreset and open it with DecentSampler!
