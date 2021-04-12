@@ -54,3 +54,10 @@ https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.ht
 - moving the left & right edges does not change the rootNote, so be sure to do that yourself
 - you may want to leave a gap of 1 velocity so that it doesn't play 2 samples at velocities where they overlap
 - scroll to zoom, middle click and drag to move the viewport
+
+# ADDITIONAL NOTES
+## (important)
+- you can only load XML files, so rename your .dspreset to .xml to load it
+- and also it can only understand absolute sample paths I would reccomend using notepad++ to replace relative paths in the xml with absolute when you load, and change them back when you save
+- if you load a file, and the sample tags don't appear, press ctrl+r to reload everything \- not sure why this bug exists, sorry.
+- it gets very slow to resize the window when you have a complex file open, because i made it in unity because i am not a real programmer
