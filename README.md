@@ -10,8 +10,10 @@ I have no plans to continue supporting this project
 I would reccomend reading about this a little bit if you want to use, it's not difficult it's just not entirely obvious how to do things or what things do sometimes
 https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.html
 
-how to use:
-SAMPLE LIST:
+#HOW TO USE
+
+#SAMPLE LIST
+
 ![image](https://user-images.githubusercontent.com/24799349/114381475-11684800-9b83-11eb-85cd-19718f0948db.png)
 - press 'import sample' to add a path to a sample
 - click on the sample to select it.
@@ -19,7 +21,8 @@ SAMPLE LIST:
 - the selected sample will be highlighted yellow, and will be the path used when creating a new tag
 - double click a sample to change the path of the selected tag
 
-GROUP TAGS AND SAMPLE TAGS
+#GROUP TAGS AND SAMPLE TAGS
+
 ![image](https://user-images.githubusercontent.com/24799349/114381745-61470f00-9b83-11eb-8f14-bd160753a370.png)
 - press '+new group' to create a new group
 - press '+new tag' to create a new sample tag
@@ -31,7 +34,8 @@ GROUP TAGS AND SAMPLE TAGS
 - the selected group is highlighted in yellow, adding a new tag will add it to that group
 - there must be a group to add a tag
 - 
-SAMPLE VIEW, AND ATTRIBUTES
+#SAMPLE VIEW, AND ATTRIBUTES
+
 ![image](https://user-images.githubusercontent.com/24799349/114382147-f0542700-9b83-11eb-8486-dc973b44d9d3.png)
 - every group and sample tag has attributes
 - you can add an attribute by choosing one from the dropdown and clicking the +, you can also put in a value which kinda works like a bad copy paste thing
@@ -41,7 +45,8 @@ SAMPLE VIEW, AND ATTRIBUTES
 - scroll to zoom, middle click and drag to move the viewport
 - you can set the start and duration of the viewport with the input boxes
 
-PIANO VIEW
+#PIANO VIEW
+
 ![image](https://user-images.githubusercontent.com/24799349/114383392-6442ff00-9b85-11eb-8549-495be2024bc4.png)
 - displays every sample tag in the selected group as a box, which represents the lowest and highest note to trigger that sample, and the lowest and highest velocity to trigger it
 - you can resize the boxes for any edge or corner
