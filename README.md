@@ -29,7 +29,7 @@ https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.ht
 - hold alt while hovering to get more info about a group or tag
 - you can minimise a group with the - button, or expand it with + button
 - you can delete a group if it is empty by minimising it (x)
-- you can remove a sample tag by clicking the -
+- you can remove a sample tag by clicking the '\-'
 - the group shows how many sample tags are inside it in square brackets
 - the selected group is highlighted in yellow, adding a new tag will add it to that group
 - there must be a group to add a tag
@@ -39,7 +39,7 @@ https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.ht
 ![image](https://user-images.githubusercontent.com/24799349/114382147-f0542700-9b83-11eb-8486-dc973b44d9d3.png)
 - every group and sample tag has attributes
 - you can add an attribute by choosing one from the dropdown and clicking the +, you can also put in a value which kinda works like a bad copy paste thing
-- you can remove an attribute by clicking the -
+- you can remove an attribute by clicking the '\-'
 - select an attribute by clicking it, it will be highlighted yellow
 - the sample view will work as a slider for the selected attribute, (start & end)
 - scroll to zoom, middle click and drag to move the viewport
@@ -51,7 +51,6 @@ https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.ht
 - displays every sample tag in the selected group as a box, which represents the lowest and highest note to trigger that sample, and the lowest and highest velocity to trigger it
 - you can resize the boxes for any edge or corner
 - hold alt to get more information about the box you are hovering over
-- 
 - moving the left & right edges does not change the rootNote, so be sure to do that yourself
 - you may want to leave a gap of 1 velocity so that it doesn't play 2 samples at velocities where they overlap
 - scroll to zoom, middle click and drag to move the viewport
