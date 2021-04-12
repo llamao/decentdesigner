@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1d9ceb18bcf095846869b35eb8b4f6eb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Anka/Coder Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e969987430821f447bded51c297a8171, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
