@@ -34,7 +34,6 @@ https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.ht
 - the group shows how many sample tags are inside it in square brackets
 - the selected group is highlighted in yellow, adding a new tag will add it to that group
 - there must be a group to add a tag
-- 
 ## SAMPLE VIEW, AND ATTRIBUTES
 
 ![image](https://user-images.githubusercontent.com/24799349/114382147-f0542700-9b83-11eb-8486-dc973b44d9d3.png)
