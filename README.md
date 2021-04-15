@@ -55,6 +55,7 @@ https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.ht
 - moving the left & right edges does not change the rootNote, so be sure to do that yourself
 - you may want to leave a gap of 1 velocity so that it doesn't play 2 samples at velocities where they overlap
 - scroll to zoom, middle click and drag to move the viewport
+- ctrl+d makes a duplicate of the selected block
 
 ## ADDITIONAL NOTES
 ### (important)
